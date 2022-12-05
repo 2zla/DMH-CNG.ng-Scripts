@@ -8,8 +8,7 @@ These are all AutoHotKey Scripts and require AHK to be installed.
 ***
 ***
 
-# Fish Script
-fish-script.ahk
+# [Fish Script](/fish-script.ahk)
 ## Description:
 This is an AutoHotKey Script which automatically fishes for you. To download this script, click the green "Code" button, then "Download Zip".
 
@@ -24,7 +23,7 @@ This is an AutoHotKey Script which automatically fishes for you. To download thi
 ***
 ***
 
-# Lotto Script
+# [Lotto Script](/auto-lotto.ahk)
 auto-lotto.ahk
 ## Description:
 This is an AutoHotKey Script which automatically plays the lottery for you every 12 minutes.
