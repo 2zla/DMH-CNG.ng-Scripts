@@ -1,8 +1,7 @@
-; Auto-Fish Script written by InsidiousPutrid
+; Auto-Fish Script written by Rza_Razor[Wu]
 ; How's it work?
 ;
-; in FiveM Press F8 then type: (without quotes)
-; "bind keyboard F2 /fish" 
+; In FiveM Console type: bind keyboard F2 "fish"
 ; 
 ; To Use Script:
 ; Press F1 to start
@@ -20,10 +19,10 @@ return
     toggle := !toggle
         if( toggle == 1){
 		    send, {F2 down}
-		    sleep 1500
+		    sleep 1200
 		    send, {F2 up}
         	
-            SetTimer, Sendend, 10000
+            SetTimer, Sendend, 5000
         }
         else{        
            SetTimer, sendend, off
@@ -34,7 +33,12 @@ return
 sendend:
     send, {F2 down}
     Sleep 1500
-    Send, {F2 up}
+    Send, {F2 up} 
+    ; add line to check fish info
+    sleep 1500
+    send, {F4 down}
+    sleep 1500
+    send, {F4 up}
 return
 
 
