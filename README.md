@@ -1,4 +1,4 @@
-# DMH's CnR Scripts Repo
+# DMH's CnR Scripts
 ![DMH](https://github.com/2zla/CnR-Fish-Script/blob/main/DMH-small.png?raw=true "DMH")
 
 These are all AutoHotKey Scripts and require AHK to be installed.
