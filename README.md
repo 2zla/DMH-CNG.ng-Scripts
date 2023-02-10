@@ -14,10 +14,12 @@ This is an AutoHotKey Script which automatically fishes for you. To download thi
 
 ## Directions:
 1. In FiveM press F8 and paste the following to bind F2 to /fish.  
-   `bind keyboard F2 "fish"`
-2. Get in a Boat or go to the Edge of The Water.
-3. Press F1 to Start Auto Fish Script
-4. Press F1 to Stop Auto Fish Script
+   `bind keyboard F2 fish
+2. In FiveM press F8 and paste the following to bind F4 to /finfo.  
+   `bind keyboard F4 finfo`
+3. Get in a Boat or go to the Edge of The Water.
+4. Press F1 to Start Auto Fish Script
+5. Press F1 to Stop Auto Fish Script
 
 
 ***
@@ -35,7 +37,7 @@ This is an AutoHotKey Script which automatically plays the lottery for you every
    `bind keyboard pause "lotto 0"` (replacing 0 with your desired number)  
 2. Press Shift+Pause to start Auto-Lotto Script
 3. Press Shift+Pause again to stop Auto-Lotto Script
-4. Press F1 to Stop Auto Fish Script
+
 
 
 
