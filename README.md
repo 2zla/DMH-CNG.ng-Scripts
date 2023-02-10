@@ -3,7 +3,7 @@
 
 These are all AutoHotKey Scripts and require AHK to be installed.
  * To download these scripts, click the green "Code" button, then "Download Zip".
- * To Run these scripts Download & Install [AutoHotKey](https://www.autohotkey.com/)
+ * To Run these scripts Download & Install [**AutoHotKey 1.1**](https://www.autohotkey.com/download/ahk-install.exe)
 
 ***
 ***
