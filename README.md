@@ -1,7 +1,7 @@
 # DMH's CnR Scripts
 ![DMH](https://github.com/2zla/CnR-Fish-Script/blob/main/DMH-small.png?raw=true "DMH")
 
-These are all AutoHotKey Scripts and require AHK to be installed.
+These are all AutoHotKey Scripts and require **AHK 1.1** to be installed.
  * To download these scripts, click the green "Code" button, then "Download Zip".
  * To Run these scripts Download & Install [**AutoHotKey 1.1**](https://www.autohotkey.com/download/ahk-install.exe)
 
